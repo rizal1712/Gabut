@@ -39,7 +39,7 @@ console.log(isCoffeeMachineReady);
 
 console.log("Selamat datang!");
 setTimeout(() => {
-  console.log("Terima kasih sudah mampir, silakan datang kembali!");
+  console.log("Terima kasih sudah mampir, silakan datang kembali okay!");
 }, 10000);
 console.log("Ada yang bisa dibantu?");
 
